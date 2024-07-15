@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<PackageId>FirstNugetPackage</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>Mohit Agarwal</Authors>
+	<Company>YourCompany</Company>
+	<Product>Nugetpackage</Product>
+	<Description>This is First Nuget Package.</Description>
+	<RepositoryUrl>https://github.com/mohit8830/FirstNugetPackage/</RepositoryUrl>
+  </PropertyGroup>    
+</Project>
