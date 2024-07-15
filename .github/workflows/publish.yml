@@ -1,5 +1,4 @@
 name: Publish NuGet Package
-
 on:
   push:
     tags:
